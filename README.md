@@ -1,4 +1,4 @@
-# Commodities-API-near-real-time-report
+# Commodities-API
 
 I have created it after my graudation from Istanbul Data Science Academy- Big Data&Data Engineering Bootcamp.
 It aims to visualize current value of Cocoa, Coffee and Sugar commodities at stock market in near real time using Google Cloud Products.
